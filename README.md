@@ -1,20 +1,27 @@
-# API 
-______________________________________________________________________________
-# Buen día
-______________________________________________________________________________
+#¡Buen día!
 
-En este repositorio encontraras cargada una API cuya funcion es la de realizar los consumos 
-de una base de datos creada en linux (php) la cual esta diseñada con los campos:
-ID, Nombres y apellidos. 
+En este repositorio encontrarás una API que se encarga de realizar operaciones en una base de datos creada en Linux (utilizando PHP) con los siguientes campos: ID, Nombres y Apellidos.
 
-la API llamara la informcion que reposa en la base de datos, realizando los metos CRUD: CREATE, READ, UPDATE Y DELETE. 
+La API te permite realizar operaciones CRUD (Create, Read, Update y Delete):
 
-- Create: Crear
-- Read: Leer
-- Update: Actualizar 
-- Delete: Borrar
-  
-  #HTML
-  ___________________________________________________________________________
-  El html esta diseñado para consumir el api y realizar el consumo de recursos del api y realizar el CRUD.
-  
+Create: Crear
+Read: Leer
+Update: Actualizar
+Delete: Borrar
+#HTML
+
+Dentro del repositorio también encontrarás un archivo index.html que contiene un formulario que te permitirá realizar consultas desde el frontend.
+
+#ANDROID STUDIO
+
+Este proyecto ha sido diseñado teniendo en cuenta la conectividad con diferentes dispositivos y medios de consumo de información. Por esta razón, también encontrarás una aplicación desarrollada en Android Studio que realiza las consultas mencionadas anteriormente.
+
+#LINUX
+
+Hemos considerado la opción de utilizar Linux para realizar consultas en una base de datos creada en este sistema operativo.
+
+
+
+
+
+
