@@ -18,7 +18,7 @@ Este proyecto ha sido diseñado teniendo en cuenta la conectividad con diferente
 
 # LINUX
 ___________________________________________________________________________________________________________________________
-Hemos considerado la opción de utilizar Linux para realizar consultas en una base de datos creada en este sistema operativo.
+Hemos considerado la opción de utilizar Linux para realizar consultas en una base de datos creada en este sistema operativo la cual fue creada en azure con el nombre de MAQUINA1. 
 
 
 
