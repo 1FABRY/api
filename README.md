@@ -1,4 +1,4 @@
-# ¡Buen día!
+# ¡BUEN DIA!
 _______________________________________________________________________________________________________________________
 En este repositorio encontrarás una API que se encarga de realizar operaciones en una base de datos creada en Linux (utilizando PHP) con los siguientes campos: ID, Nombres y Apellidos.
 
