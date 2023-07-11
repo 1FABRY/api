@@ -13,3 +13,8 @@ la API llamara la informcion que reposa en la base de datos, realizando los meto
 - Read: Leer
 - Update: Actualizar 
 - Delete: Borrar
+  
+  #HTML
+  ___________________________________________________________________________
+  El html esta diseñado para consumir el api y realizar el consumo de recursos del api y realizar el CRUD.
+  
